@@ -3495,7 +3495,7 @@
 
 		/* Nav */
 
-			#page-wrapper {
+			/*#page-wrapper {
 				-moz-backface-visibility: hidden;
 				-webkit-backface-visibility: hidden;
 				-ms-backface-visibility: hidden;
@@ -3507,7 +3507,7 @@
 				padding-bottom: 1px;
 			}
 
-			/*#navButton {
+			#navButton {
 				-moz-backface-visibility: hidden;
 				-webkit-backface-visibility: hidden;
 				-ms-backface-visibility: hidden;
@@ -3565,7 +3565,7 @@
 						width: 3.5em;
 					}
 
-			/*#navPanel {
+			#navPanel {
 				-moz-backface-visibility: hidden;
 				-webkit-backface-visibility: hidden;
 				-ms-backface-visibility: hidden;
