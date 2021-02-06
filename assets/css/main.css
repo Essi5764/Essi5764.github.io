@@ -3426,9 +3426,9 @@
 
 /* Narrower */
 
-	#navPanel, #navButton {
+	/*#navPanel, #navButton {
 		display: none;
-	}
+	/*}
 
 	@media screen and (max-width: 840px) {
 
@@ -3565,7 +3565,7 @@
 						width: 3.5em;
 					}
 
-			#navPanel {
+			/*#navPanel {
 				-moz-backface-visibility: hidden;
 				-webkit-backface-visibility: hidden;
 				-ms-backface-visibility: hidden;
